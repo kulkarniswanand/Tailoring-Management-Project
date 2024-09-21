@@ -1,0 +1,331 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TAILOR MANAGEMENT
+</name>
+</assembly>
+<members>
+<member name="T:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources._106053382_set_of_tailoring_accessories_on_grey_background_top_view">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources._106053382_set_of_tailoring_accessories_on_grey_background_top_view1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.Actions_go_next_icon__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.clothes_tailoring_home_90724c8f_f018_4582_95eb_9529fd905e6d_2048x2048">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.clothes_tailoring_home_90724c8f_f018_4582_95eb_9529fd905e6d_2048x20481">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.clothes_tailoring_home_90724c8f_f018_4582_95eb_9529fd905e6d_2048x20482">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.custom_tailoring_846x564">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.custom_tailoring_846x5641">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.custom_tailoring_846x5642">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.depositphotos_152128286_stock_photo_set_of_sewing_supplies">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.depositphotos_152128286_stock_photo_set_of_sewing_supplies1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.depositphotos_152128286_stock_photo_set_of_sewing_supplies2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.download">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.download__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.flat_lay_tailor_scissors_black_260nw_1283832229">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.flat_lay_tailor_scissors_black_260nw_12838322291">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.flat_lay_tailor_scissors_black_260nw_12838322292">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.flat_lay_tailor_scissors_black_260nw_12838322293">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.flat_lay_tailor_scissors_black_260nw_12838322294">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.flat_lay_tailor_scissors_black_260nw_12838322295">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.gettyimages_109710917_612x612">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.gettyimages_109710917_612x6121">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.gettyimages_109710917_612x6122">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.gettyimages_109710917_612x6123">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.images">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.Office_Customer_Male_Light_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.Office_Customer_Male_Light_icon__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.Office_Customer_Male_Light_icon__1_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.Office_Customer_Male_Light_icon__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.PadLock_icon__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.photo_1502217625004_89c03571bcca">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.photo_1502217625004_89c03571bcca1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.photo_1502217625004_89c03571bcca2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.scissors_fabric_measuring_tape_tailoring_scissors_fabric_measuring_tape_tailoring_wooden_background_113764851">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.scissors_fabric_measuring_tape_tailoring_scissors_fabric_measuring_tape_tailoring_wooden_background_1137648511">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.set_tailoring_tools_accessories_on_260nw_765065779">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.set_tailoring_tools_accessories_on_260nw_7650657791">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.set_tailoring_tools_accessories_on_260nw_7650657792">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.shutterstock_529379386_tailors_7_4ia34">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.tailoring_items_arrangement_high_angle_23_2148897989">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.tailoring_items_arrangement_high_angle_23_21488979891">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.tailoring_items_arrangement_high_angle_23_21488979892">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.top_view_aerial_image_fashion_designer_background_concept_flat_lay_sewing_accessory_tailor_tool_work_shop_1921_960">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.top_view_basket_with_sewing_threads_copy_space_background_23_2148355024">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.top_view_basket_with_sewing_threads_copy_space_background_23_21483550241">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.top_view_basket_with_sewing_threads_copy_space_background_23_21483550242">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.top_view_tailor_items_wooden_background_with_copy_space_1921_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TAILOR_MANAGEMENT_SYSTEM.My.Resources.Resources.wall_bricks_black_paint_wallpaper_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:TAILOR_MANAGEMENT_SYSTEM.tailorDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:TAILOR_MANAGEMENT_SYSTEM.tailorDataSet.Table1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TAILOR_MANAGEMENT_SYSTEM.tailorDataSet.Table1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TAILOR_MANAGEMENT_SYSTEM.tailorDataSet.Table1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TAILOR_MANAGEMENT_SYSTEM.tailorDataSetTableAdapters.Table1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TAILOR_MANAGEMENT_SYSTEM.tailorDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:TAILOR_MANAGEMENT_SYSTEM.tailorDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(TAILOR_MANAGEMENT_SYSTEM.tailorDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:TAILOR_MANAGEMENT_SYSTEM.tailorDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(TAILOR_MANAGEMENT_SYSTEM.tailorDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:TAILOR_MANAGEMENT_SYSTEM.tailorDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(TAILOR_MANAGEMENT_SYSTEM.tailorDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:TAILOR_MANAGEMENT_SYSTEM.tailorDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:TAILOR_MANAGEMENT_SYSTEM.tailorDataSetTableAdapters.TableAdapterManager.UpdateAll(TAILOR_MANAGEMENT_SYSTEM.tailorDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:TAILOR_MANAGEMENT_SYSTEM.tailorDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:TAILOR_MANAGEMENT_SYSTEM.tailorDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,600 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2813CD20-0D11-448B-BF34-C85CF7256C25}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>TAILOR_MANAGEMENT_SYSTEM.My.MyApplication</StartupObject>
+    <RootNamespace>TAILOR_MANAGEMENT_SYSTEM</RootNamespace>
+    <AssemblyName>TAILOR MANAGEMENT</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>F:\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>9</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>TAILOR MANAGEMENT.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>TAILOR MANAGEMENT.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>515EBC13866805E618C7140E6D63BF9AEBD6042B</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>TAILOR MANAGEMENT SYSTEM_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="3_botton2.Designer.vb">
+      <DependentUpon>3_botton2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="3_botton2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="details2.Designer.vb">
+      <DependentUpon>details2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="details2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form13.Designer.vb">
+      <DependentUpon>Form13.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form13.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form14.Designer.vb">
+      <DependentUpon>Form14.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form14.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form15.Designer.vb">
+      <DependentUpon>Form15.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form15.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form16.Designer.vb">
+      <DependentUpon>Form16.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form16.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form17.Designer.vb">
+      <DependentUpon>Form17.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form17.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kurta.Designer.vb">
+      <DependentUpon>kurta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="kurta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kurta2.Designer.vb">
+      <DependentUpon>kurta2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="kurta2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kurta3.Designer.vb">
+      <DependentUpon>kurta3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="kurta3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="neharu2.Designer.vb">
+      <DependentUpon>neharu2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="neharu2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="neharu_wizar2.Designer.vb">
+      <DependentUpon>neharu_wizar2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="neharu_wizar2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pant3.Designer.vb">
+      <DependentUpon>pant3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pant3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="shirt2.Designer.vb">
+      <DependentUpon>shirt2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="shirt2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="shirt_pant2.Designer.vb">
+      <DependentUpon>shirt_pant2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="shirt_pant2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wizar2.Designer.vb">
+      <DependentUpon>wizar2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="wizar2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_3_botton.Designer.vb">
+      <DependentUpon>_3_botton.vb</DependentUpon>
+    </Compile>
+    <Compile Include="_3_botton.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="details.Designer.vb">
+      <DependentUpon>details.vb</DependentUpon>
+    </Compile>
+    <Compile Include="details.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Form10.Designer.vb">
+      <DependentUpon>Form10.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form10.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form11.Designer.vb">
+      <DependentUpon>Form11.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form11.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form12.Designer.vb">
+      <DependentUpon>Form12.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form12.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.vb">
+      <DependentUpon>Form3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.Designer.vb">
+      <DependentUpon>Form4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form5.Designer.vb">
+      <DependentUpon>Form5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form6.Designer.vb">
+      <DependentUpon>Form6.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form6.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form7.Designer.vb">
+      <DependentUpon>Form7.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form7.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form8.Designer.vb">
+      <DependentUpon>Form8.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form8.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form9.Designer.vb">
+      <DependentUpon>Form9.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form9.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="neharu.Designer.vb">
+      <DependentUpon>neharu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="neharu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="neharu_wizar.Designer.vb">
+      <DependentUpon>neharu_wizar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="neharu_wizar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pant.Designer.vb">
+      <DependentUpon>pant.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pant.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pant2.Designer.vb">
+      <DependentUpon>pant2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pant2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="shirt.Designer.vb">
+      <DependentUpon>shirt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="shirt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="shirt_pant.Designer.vb">
+      <DependentUpon>shirt_pant.vb</DependentUpon>
+    </Compile>
+    <Compile Include="shirt_pant.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tailorDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>tailorDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="wizar.Designer.vb">
+      <DependentUpon>wizar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="wizar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="3_botton2.resx">
+      <DependentUpon>3_botton2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="details2.resx">
+      <DependentUpon>details2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form13.resx">
+      <DependentUpon>Form13.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form14.resx">
+      <DependentUpon>Form14.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form15.resx">
+      <DependentUpon>Form15.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form16.resx">
+      <DependentUpon>Form16.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form17.resx">
+      <DependentUpon>Form17.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kurta.resx">
+      <DependentUpon>kurta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kurta2.resx">
+      <DependentUpon>kurta2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kurta3.resx">
+      <DependentUpon>kurta3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="neharu2.resx">
+      <DependentUpon>neharu2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="neharu_wizar2.resx">
+      <DependentUpon>neharu_wizar2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pant3.resx">
+      <DependentUpon>pant3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="shirt2.resx">
+      <DependentUpon>shirt2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="shirt_pant2.resx">
+      <DependentUpon>shirt_pant2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wizar2.resx">
+      <DependentUpon>wizar2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_3_botton.resx">
+      <DependentUpon>_3_botton.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="details.resx">
+      <DependentUpon>details.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form10.resx">
+      <DependentUpon>Form10.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form11.resx">
+      <DependentUpon>Form11.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form12.resx">
+      <DependentUpon>Form12.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form5.resx">
+      <DependentUpon>Form5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form6.resx">
+      <DependentUpon>Form6.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form7.resx">
+      <DependentUpon>Form7.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form8.resx">
+      <DependentUpon>Form8.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form9.resx">
+      <DependentUpon>Form9.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="neharu.resx">
+      <DependentUpon>neharu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="neharu_wizar.resx">
+      <DependentUpon>neharu_wizar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pant.resx">
+      <DependentUpon>pant.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pant2.resx">
+      <DependentUpon>pant2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Form2.resx">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="shirt.resx">
+      <DependentUpon>shirt.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="shirt_pant.resx">
+      <DependentUpon>shirt_pant.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wizar.resx">
+      <DependentUpon>wizar.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="TAILOR MANAGEMENT SYSTEM_TemporaryKey.pfx" />
+    <None Include="tailorDataSet.xsc">
+      <DependentUpon>tailorDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="tailorDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>tailorDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="tailorDataSet.xss">
+      <DependentUpon>tailorDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\custom-tailoring-846x564.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Office-Customer-Male-Light-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Office-Customer-Male-Light-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PadLock-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Office-Customer-Male-Light-icon %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Office-Customer-Male-Light-icon %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-go-next-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shutterstock-529379386-tailors-7-4ia34.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clothes-tailoring-home_90724c8f-f018-4582-95eb-9529fd905e6d_2048x2048.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tailoring-items-arrangement-high-angle_23-2148897989.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wall-bricks-black-paint-wallpaper-preview.jpg" />
+    <None Include="Resources\flat-lay-tailor-scissors-black-260nw-1283832229.jpg" />
+    <None Include="Resources\flat-lay-tailor-scissors-black-260nw-12838322291.jpg" />
+    <None Include="Resources\clothes-tailoring-home_90724c8f-f018-4582-95eb-9529fd905e6d_2048x20481.jpg" />
+    <None Include="Resources\tailoring-items-arrangement-high-angle_23-21488979891.jpg" />
+    <None Include="Resources\custom-tailoring-846x5641.jpg" />
+    <None Include="Resources\set-tailoring-tools-accessories-on-260nw-765065779.jpg" />
+    <None Include="Resources\photo-1502217625004-89c03571bcca.jpg" />
+    <None Include="Resources\depositphotos_152128286-stock-photo-set-of-sewing-supplies.jpg" />
+    <None Include="Resources\scissors-fabric-measuring-tape-tailoring-scissors-fabric-measuring-tape-tailoring-wooden-background-113764851.jpg" />
+    <None Include="Resources\gettyimages-109710917-612x612.jpg" />
+    <None Include="Resources\top-view-aerial-image-fashion-designer-background-concept-flat-lay-sewing-accessory-tailor-tool-work-shop_1921-960.jpg" />
+    <None Include="Resources\scissors-fabric-measuring-tape-tailoring-scissors-fabric-measuring-tape-tailoring-wooden-background-1137648511.jpg" />
+    <None Include="Resources\set-tailoring-tools-accessories-on-260nw-7650657791.jpg" />
+    <None Include="Resources\gettyimages-109710917-612x6121.jpg" />
+    <None Include="Resources\flat-lay-tailor-scissors-black-260nw-12838322292.jpg" />
+    <None Include="Resources\flat-lay-tailor-scissors-black-260nw-12838322293.jpg" />
+    <None Include="Resources\photo-1502217625004-89c03571bcca1.jpg" />
+    <None Include="Resources\gettyimages-109710917-612x6122.jpg" />
+    <None Include="Resources\106053382-set-of-tailoring-accessories-on-grey-background-top-view.jpg" />
+    <None Include="Resources\depositphotos_152128286-stock-photo-set-of-sewing-supplies1.jpg" />
+    <None Include="Resources\flat-lay-tailor-scissors-black-260nw-12838322294.jpg" />
+    <None Include="Resources\photo-1502217625004-89c03571bcca2.jpg" />
+    <None Include="Resources\set-tailoring-tools-accessories-on-260nw-7650657792.jpg" />
+    <None Include="Resources\depositphotos_152128286-stock-photo-set-of-sewing-supplies2.jpg" />
+    <None Include="Resources\gettyimages-109710917-612x6123.jpg" />
+    <None Include="Resources\106053382-set-of-tailoring-accessories-on-grey-background-top-view1.jpg" />
+    <None Include="Resources\flat-lay-tailor-scissors-black-260nw-12838322295.jpg" />
+    <None Include="Resources\images.jpg" />
+    <None Include="Resources\top-view-basket-with-sewing-threads-copy-space-background_23-2148355024.jpg" />
+    <None Include="Resources\top-view-tailor-items-wooden-background-with-copy-space_1921-1.jpg" />
+    <None Include="Resources\top-view-basket-with-sewing-threads-copy-space-background_23-21483550241.jpg" />
+    <None Include="Resources\top-view-basket-with-sewing-threads-copy-space-background_23-21483550242.jpg" />
+    <None Include="Resources\custom-tailoring-846x5642.jpg" />
+    <None Include="Resources\download.jpg" />
+    <None Include="Resources\clothes-tailoring-home_90724c8f-f018-4582-95eb-9529fd905e6d_2048x20482.jpg" />
+    <None Include="Resources\tailoring-items-arrangement-high-angle_23-21488979892.jpg" />
+    <Content Include="tailor.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

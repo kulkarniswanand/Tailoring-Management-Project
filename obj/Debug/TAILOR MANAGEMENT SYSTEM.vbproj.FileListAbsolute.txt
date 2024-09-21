@@ -1,0 +1,68 @@
+C:\Users\kulka\AppData\Local\Temporary Projects\TAILOR MANAGEMENT SYSTEM\bin\Debug\TAILOR MANAGEMENT SYSTEM.exe.config
+C:\Users\kulka\AppData\Local\Temporary Projects\TAILOR MANAGEMENT SYSTEM\bin\Debug\TAILOR MANAGEMENT SYSTEM.exe
+C:\Users\kulka\AppData\Local\Temporary Projects\TAILOR MANAGEMENT SYSTEM\bin\Debug\TAILOR MANAGEMENT SYSTEM.pdb
+C:\Users\kulka\AppData\Local\Temporary Projects\TAILOR MANAGEMENT SYSTEM\bin\Debug\TAILOR MANAGEMENT SYSTEM.xml
+C:\Users\kulka\AppData\Local\Temporary Projects\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR_MANAGEMENT_SYSTEM.Form1.resources
+C:\Users\kulka\AppData\Local\Temporary Projects\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR_MANAGEMENT_SYSTEM.Resources.resources
+C:\Users\kulka\AppData\Local\Temporary Projects\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR MANAGEMENT SYSTEM.vbproj.GenerateResource.Cache
+C:\Users\kulka\AppData\Local\Temporary Projects\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR MANAGEMENT SYSTEM.exe
+C:\Users\kulka\AppData\Local\Temporary Projects\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR MANAGEMENT SYSTEM.xml
+C:\Users\kulka\AppData\Local\Temporary Projects\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR MANAGEMENT SYSTEM.pdb
+C:\Users\kulka\AppData\Local\Temporary Projects\TAILOR MANAGEMENT SYSTEM\bin\Debug\Form1.resx
+C:\Users\kulka\AppData\Local\Temporary Projects\TAILOR MANAGEMENT SYSTEM\bin\Debug\Form1.vb
+C:\Users\kulka\AppData\Local\Temporary Projects\TAILOR MANAGEMENT SYSTEM\bin\Debug\Form1.Designer.vb
+C:\Users\kulka\AppData\Local\Temporary Projects\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR_MANAGEMENT_SYSTEM.Form2.resources
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\bin\Debug\TAILOR MANAGEMENT.exe
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\bin\Debug\tailor.accdb
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\bin\Debug\Form1.resx
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\bin\Debug\Form1.vb
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\bin\Debug\Form1.Designer.vb
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\bin\Debug\TAILOR MANAGEMENT.exe.config
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\bin\Debug\TAILOR MANAGEMENT.exe.manifest
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\bin\Debug\TAILOR MANAGEMENT.application
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR_MANAGEMENT_SYSTEM._3_botton2.resources
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR_MANAGEMENT_SYSTEM.details2.resources
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR_MANAGEMENT_SYSTEM.Form13.resources
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR_MANAGEMENT_SYSTEM.Form14.resources
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR_MANAGEMENT_SYSTEM.Form15.resources
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR_MANAGEMENT_SYSTEM.Form16.resources
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR_MANAGEMENT_SYSTEM.Form17.resources
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR_MANAGEMENT_SYSTEM.kurta.resources
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR_MANAGEMENT_SYSTEM.kurta2.resources
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR_MANAGEMENT_SYSTEM.kurta3.resources
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR_MANAGEMENT_SYSTEM.neharu2.resources
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR_MANAGEMENT_SYSTEM.neharu_wizar2.resources
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR_MANAGEMENT_SYSTEM.pant3.resources
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR_MANAGEMENT_SYSTEM.shirt2.resources
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR_MANAGEMENT_SYSTEM.shirt_pant2.resources
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR_MANAGEMENT_SYSTEM.wizar2.resources
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR_MANAGEMENT_SYSTEM._3_botton.resources
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR_MANAGEMENT_SYSTEM.details.resources
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR_MANAGEMENT_SYSTEM.Form1.resources
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR_MANAGEMENT_SYSTEM.Form10.resources
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR_MANAGEMENT_SYSTEM.Form11.resources
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR_MANAGEMENT_SYSTEM.Form12.resources
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR_MANAGEMENT_SYSTEM.Form3.resources
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR_MANAGEMENT_SYSTEM.Form4.resources
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR_MANAGEMENT_SYSTEM.Form5.resources
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR_MANAGEMENT_SYSTEM.Form6.resources
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR_MANAGEMENT_SYSTEM.Form7.resources
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR_MANAGEMENT_SYSTEM.Form8.resources
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR_MANAGEMENT_SYSTEM.Form9.resources
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR_MANAGEMENT_SYSTEM.Resources.resources
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR_MANAGEMENT_SYSTEM.neharu.resources
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR_MANAGEMENT_SYSTEM.neharu_wizar.resources
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR_MANAGEMENT_SYSTEM.pant.resources
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR_MANAGEMENT_SYSTEM.pant2.resources
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR_MANAGEMENT_SYSTEM.Form2.resources
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR_MANAGEMENT_SYSTEM.shirt.resources
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR_MANAGEMENT_SYSTEM.shirt_pant.resources
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR_MANAGEMENT_SYSTEM.wizar.resources
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR MANAGEMENT SYSTEM.vbproj.GenerateResource.Cache
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR MANAGEMENT.exe.manifest
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR MANAGEMENT.application
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR MANAGEMENT.exe
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR MANAGEMENT.xml
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\obj\Debug\TAILOR MANAGEMENT.pdb
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\bin\Debug\TAILOR MANAGEMENT.pdb
+C:\Users\kulka\OneDrive\Documents\Visual Studio 2012\Projects\TAILOR MANAGEMENT SYSTEM\TAILOR MANAGEMENT SYSTEM\bin\Debug\TAILOR MANAGEMENT.xml
